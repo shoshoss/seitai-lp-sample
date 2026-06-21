@@ -75,4 +75,4 @@
 
 ## GitHub Pages
 
-公開 URL：https://shoshoss.github.io/seitai-lp-sample/#contact
+公開 URL：https://shoshoss.github.io/seitai-lp-sample/
