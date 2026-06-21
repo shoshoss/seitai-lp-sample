@@ -491,6 +491,12 @@ details p {
 
   .hero {
     padding: 56px 0;
+    background: linear-gradient(180deg, rgba(237, 247, 251, 0.96), rgba(255, 255, 255, 1));
+  }
+
+  .hero::before,
+  .hero::after {
+    display: none;
   }
 
   .hero-layout,
